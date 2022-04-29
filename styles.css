@@ -6,7 +6,7 @@ h1, h2, h3, p, ol, ul {
 * { box-sizing:border-box; }
 
 img {
-	max-width: 150px;
+	width: 150px;
 }
 
 /************* End CSS RESETS **************/
